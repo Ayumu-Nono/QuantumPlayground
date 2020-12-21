@@ -40,4 +40,7 @@ $ jupyter notebook list
 　http://localhost:8888/?token=<トークン>
 ```
 
-
+停止したいとき
+```
+$ docker stop jupyter
+```
